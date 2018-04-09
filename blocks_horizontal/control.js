@@ -2,7 +2,7 @@
  * @license
  * Visual Blocks Editor
  *
- * Copyright 2016 Massachusetts Institute of Technology
+ * Copyright 2018 Massachusetts Institute of Technology
  * All rights reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
